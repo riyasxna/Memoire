@@ -1,4 +1,4 @@
-# Memories-Project
+# Mémoire
 
 ## An App where you can store/upload all your experiences in one place . You can upload all the pics with hashtags and interesting message .
 
